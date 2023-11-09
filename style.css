@@ -12,10 +12,10 @@
 }
 
 body {
-  font-family: "Poppins", sans-serif;
+    font-family: "Poppins", sans-serif;
 }
 
-/* ///////////..utility classes../////////// */
+/* ///////////..Utility Classes../////////// */
 
 .container {
   max-width: 1200px;
